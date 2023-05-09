@@ -1,0 +1,11 @@
+Id_Clientes,Nombre,Apellido,Direccion,Telefono,Correo_Electronico,Edad,Genero
+1,'Juan','Pérez','Carrera 7 # 32-02','3101234567','juan.perez@example.com',35,'Masculino'
+2,'María','González','Calle 12 # 4-56','3102345678','maria.gonzalez@example.com',27,'Femenino'
+3,'Pedro','Sánchez','Calle 16 # 10-89','3103456789','pedro.sanchez@example.com',42,'Masculino'
+4,'Luisa','Martínez','Carrera 8 # 7-42','3104567890','luisa.martinez@example.com',24,'Femenino'
+5,'Carlos','Hernández','Carrera 29 # 41-98','3105678901','carlos.hernandez@example.com',38,'Masculino'
+6,'Ana','Díaz','Calle 54 # 24-87','3106789012','ana.diaz@example.com',29,'Femenino'
+7,'Miguel','López','Carrera 25 # 8-23','3107890123','miguel.lopez@example.com',47,'Masculino'
+8,'Lucía','García','Calle 67 # 13-56','3108901234','lucia.garcia@example.com',31,'Femenino'
+9,'Javier','Ramírez','Carrera 12 # 19-67','3109012345','javier.ramirez@example.com',44,'Masculino'
+10,'Sofía','Fernández','Calle 36 # 12-45','3100123456','sofia.fernandez@example.com',26,'Femenino'

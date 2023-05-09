@@ -1,0 +1,9 @@
+Id_Proveedor,Nombre,Tipo_Servicio,NIT,Telefono,Correo_Electronico,Cuenta_Bancaria,Horario_Atencion,Id_Costo_Produccion
+1, 'Proveedor 1', 'Estampados', 123456789, 3219876543, 'proveedor1@gmail.com', 123456789012345, '2023-05-06 09:00:00', 4
+2, 'Proveedor 2', 'Fotobooks', 987654321, 3124567890, 'proveedor2@hotmail.com', 234567890123456, '2023-05-06 10:00:00', 8
+3, 'Proveedor 3', 'Enmarcaciones', 456789123, 3206549870, 'proveedor3@yahoo.com', 345678901234567, '2023-05-06 11:00:00', 6
+4, 'Proveedor 4', 'Impresion Digital', 789123456, 3157894562, 'proveedor4@gmail.com', 456789012345678, '2023-05-06 12:00:00', 3
+5, 'Proveedor 5', 'Impresion en Lienzo', 987654321, 3106547890, 'proveedor5@hotmail.com', 567890123456789, '2023-05-06 13:00:00', 7
+6, 'Proveedor 6', 'Impresion en Papel Fotografico', 123789456, 3186547890, 'proveedor6@yahoo.com', 678901234567890, '2023-05-06 14:00:00', 5
+7, 'Proveedor 7', 'Impresion en Papel Mate', 456123789, 3149876543, 'proveedor7@gmail.com', 789012345678901, '2023-05-06 15:00:00', 1
+8, 'Proveedor 8', 'Impresion en Posillos', 789456123, 3176549870, 'proveedor8@hotmail.com', 890123456789012, '2023-05-06 16:00:00', 2

@@ -1,0 +1,11 @@
+Id_Campaña,Nombre,Publico_Objetivo,Canal_Comunicacion,Alcance,Costo,Efectividad,Fecha_Inicio,Fecha_Finalizacion
+1,'Lanzamiento del nuevo producto X','Jóvenes entre 18 y 25 años','Instagram y TikTok',50,500000,40,'2023-06-01','2023-06-30'
+2,'Descuentos de temporada','Hombres y mujeres entre 25 y 40 años','Facebook y correo electrónico',80,800000,60,'2023-07-01','2023-07-31'
+3,'Venta Flash','Personas mayores de 18 años','WhatsApp y Twitter',30,350000,20,'2023-08-01','2023-08-05'
+4,'Back to School','Estudiantes de colegio y universidad','Facebook e Instagram',70,700000,50,'2023-08-15','2023-09-15'
+5,'Lanzamiento de servicio de streaming','Personas entre 20 y 50 años','YouTube y correo electrónico',90,900000,70,'2023-09-01','2023-10-01'
+6,'Fiesta de Halloween','Personas mayores de 18 años','Instagram y TikTok',40,400000,30,'2023-10-20','2023-11-02'
+7,'Black Friday','Todas las edades','Facebook y correo electrónico',100,1000000,90,'2023-11-24','2023-11-27'
+8,'Navidad en Familia','Familias con hijos','Instagram y WhatsApp',60,600000,40,'2023-12-01','2023-12-31'
+9,'Año Nuevo','Personas mayores de 18 años','Facebook y correo electrónico',50,500000,30,'2023-12-26','2024-01-01'
+10,'Rebajas de Verano','Hombres y mujeres entre 18 y 35 años','Twitter y WhatsApp',75,750000,60,'2024-01-10','2024-02-10'
