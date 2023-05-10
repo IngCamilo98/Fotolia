@@ -211,8 +211,8 @@ CREATE TABLE IF NOT EXISTS `Fotolia`.`Ventas` (
     FOREIGN KEY (`Id_Empleados`)
     REFERENCES `Fotolia`.`Empleados` (`Id_Empleado`)
     ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
-  CONSTRAINT `Id_Ingreso_Venta0`
+    ON UPDATE NO ACTION,
+  CONSTRAINT `Id_Ingreso_Venta`
     FOREIGN KEY (`Id_Ingreso_Venta`)
     REFERENCES `Fotolia`.`Ingreso_Venta` (`Id_Ingreso_Venta`)
     ON DELETE NO ACTION
